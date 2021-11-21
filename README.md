@@ -19,7 +19,7 @@ A mod for Call of Duty: Black Ops 3 that was made to help visually monitor and d
 - Sets distance at which the monitor draws shapes & text (default: 1000)
 
 ```/modvar monitor_filter {category} {0 or 1}```
-- Toggles visibility of a chosen entity category (see **[Steam Discussions](url=https://steamcommunity.com/workshop/filedetails/discussion/2657517966/3195862342461110392/)** for category list)
+- Toggles visibility of a chosen entity category (see **[Steam Discussions](https://steamcommunity.com/workshop/filedetails/discussion/2657517966/3195862342461110392/)** for category list)
 
 ```/modvar monitor_visuals {0 or 1}```
 - Toggles visibility of debug shapes & text
@@ -30,7 +30,7 @@ A mod for Call of Duty: Black Ops 3 that was made to help visually monitor and d
 ```/modvar dm_points all 500000```
 - Gives everyone in the game 500k just cuz
 
-See **[Steam Discussions](url=https://steamcommunity.com/workshop/filedetails/discussion/2657517966/3195862342461110392/)** for additional commands!<br>
+See **[Steam Discussions](https://steamcommunity.com/workshop/filedetails/discussion/2657517966/3195862342461110392/)** for additional commands!<br>
 
 This mod can be very intensive depending on how many objects it has to draw and how often it must do so. I advise you to figure out what settings work best. If your game lags, try adjusting monitor_time and monitor_distance first.<br>
 
