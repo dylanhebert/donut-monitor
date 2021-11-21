@@ -1,0 +1,19 @@
+>mode,zm
+>type,common
+
+#include "zm_mod.class"
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////
+rawfile,dummy.cfg
+///////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+scriptparsetree,scripts/zm/_load.gsc
+scriptparsetree,scripts/zm/donut_monitor.gsc
+scriptparsetree,scripts/zm/donut_monitor_util.gsc
+scriptparsetree,scripts/zm/donut_monitor_ents_all.gsc
+
+material,$debug_overlay
+material,debug_sphere_exterior
+material,debug_sphere_exterior_nodepth
+material,debug_sphere_interior
+material,debug_sphere_interior_nodepth
